@@ -12,3 +12,11 @@ layout: home
 # News
 
 - Stay home please.
+
+- {{ site.url }}
+
+- {{ site.baseurl }}
+
+- {{ site.url }}{{ site.baseurl }}
+
+- {{ site.url }}{{ site.baseurl }}/about.html
