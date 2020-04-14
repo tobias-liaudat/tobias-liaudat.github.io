@@ -1,0 +1,9 @@
+@mixin shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@mixin my-display {
+  @media screen and (max-width: 250px) and (min-width: 100px){
+    @content;
+  }
+}

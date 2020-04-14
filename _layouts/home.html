@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="my-topic-container">
+    <div class="my-topic" onclick="location.href='{{ site.url }}{{ site.baseurl }}/about.html';">
+      <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/about-me.jpg" class="my-topic-img">
+      <span class="my-topic-title">About me</span>
+    </div>
+
+    <div class="my-topic" onclick="location.href='{{ site.url }}{{ site.baseurl }}/cv.html';">
+      <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/cv.png" class="my-topic-img">
+      <span class="my-topic-title">CV</span>
+    </div>
+
+    <div class="my-topic" onclick="location.href='{{ site.url }}{{ site.baseurl }}/Publications.html';">
+      <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/publications.jpg" class="my-topic-img">
+      <span class="my-topic-title">Publications</span>
+    </div>
+
+    <div class="my-topic" onclick="location.href='{{ site.url }}{{ site.baseurl }}/Miscellaneous.html';">
+      <img src="{{ site.url }}{{ site.baseurl }}{{ site.image_path }}/miscellaneous.jpg" class="my-topic-img">
+      <span class="my-topic-title">Miscellaneous</span>
+    </div>
+</div>
+
+<div>
+
+  {{ content }}
+
+</div>
