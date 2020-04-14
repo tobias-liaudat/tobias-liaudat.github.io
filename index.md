@@ -6,6 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Tobias Liaudat
+tagline: PhD student in Signal Processing and Astrophysics at CEA Saclay.
 ---
 
 ## News
