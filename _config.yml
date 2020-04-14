@@ -2,9 +2,10 @@ title: Tobias Liaudat
 description: PhD student in Signal Processing and Astrophysics at CEA Saclay.
 show_downloads: true
 
-baseurl: "/tobias-liaudat" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+# baseurl: "/tobias-liaudat" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 # url: "https://tobias-liaudat.github.io" # change this to the base hostname & protocol for your site
 # url: "http://localhost:4000/tobias-liaudat"
+baseurl: ""
 url: ""
 image_path: /assets/images
 
@@ -36,8 +37,8 @@ contact:
   contact_url: mailto:tobias.liaudat@cea.fr
 
 
-# plugins:
-#   - jekyll-target-blank
+plugins:
+  - jekyll-target-blank
 
 target-blank:
     rel: nofollow
