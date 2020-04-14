@@ -23,7 +23,7 @@ I am currently a PhD student in Astrophysics and Signal Processing at the [Cosmo
 
 The CosmoStat laboratory is composed of researchers with different backgrounds, mostly astrophysics and signal processing, working in synergy to solve the new challenges arriving in Cosmology.
 
-I am one of the CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organiser, our group seminar/journal club. If you are interested in giving a talk and meeting the group please [contact me](mailto:tobias.liaudat@cea.fr).
+I am one of the CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organiser, our group seminar/journal club. If you are interested in giving a talk and meeting the group feel free to [contact me](mailto:tobias.liaudat@cea.fr).
 
 ## The PhD
 
@@ -38,4 +38,4 @@ My main interests are Inverse problems, Image and signal processing, Point Sprea
 
 ## Master Thesis
 
-The Master thesis was done in the CosmoStat laboratory under the supervision of Jérôme Bobin and Christophe Kervazo, where we were focused in the sparse Blind Source Separation (BSS) problem. We developed a new method coined DGMCA for tackling large scale sparse BSS problems, where we are not able to scan all the observations simultaneously. Distributed GMCA ([DGMCA](https://hal.archives-ouvertes.fr/hal-02426991/)) is able to parallelise the workload by the use of a clever manifold-based matrix aggregation procedure. It is able to accelerate the widely-used BSS algorithm [GMCA](https://ieeexplore.ieee.org/abstract/document/4337755) (Generalised Morphological Component Analysis) while maintaining the separation performance. On top of that, it can even outperform GMCA under some conditions. [[Thesis PDF]]({{ site.url }}{{ site.baseurl }}/assets/documents/Tesis_IngElectronica_LIAUDAT.pdf)
+I did my Master thesis in the CosmoStat laboratory under the supervision of [Jérôme Bobin](http://jbobin.cosmostat.org) and [Christophe Kervazo](https://www.cosmostat.org/people/christophe-kervazo). We developed a new method coined Distributed GMCA ([DGMCA](https://hal.archives-ouvertes.fr/hal-02426991/)) for tackling large scale sparse Blind Source Separation (BSS) problems where we are not able to scan all the observations simultaneously. DGMCA is able to parallelise the workload by the use of a clever manifold-based matrix aggregation procedure. It is able to accelerate the widely-used BSS algorithm [GMCA](https://ieeexplore.ieee.org/abstract/document/4337755) (Generalised Morphological Component Analysis) while maintaining the separation performance. On top of that, it can even outperform GMCA under some conditions. [[Thesis PDF]]({{ site.url }}{{ site.baseurl }}/assets/documents/Tesis_IngElectronica_LIAUDAT.pdf)
