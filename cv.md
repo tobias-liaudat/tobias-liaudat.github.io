@@ -23,7 +23,7 @@ order: 1
 <div class="begin-examples"></div>
 
 * 2012 - 2019: **Universidad de Buenos Aires (UBA)**, Buenos Aires, Argentina  
-    Electronic Engineering Diploma  
+    Electronic Engineering Diploma. GPA: 9.23/10  
     _Gold Medal eligible._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/UBA.png){:.logo}](http://fi.uba.ar){:.logo}
@@ -93,6 +93,11 @@ order: 1
 * English: Fluent
 
 * French: Fluent
+
+## Supervision
+
+* [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
+    Working on RCA for CFIS data and multi-CCD RCA.
 
 ## Awards
 
