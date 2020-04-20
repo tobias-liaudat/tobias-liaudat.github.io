@@ -97,7 +97,7 @@ order: 1
 ## Supervision
 
 * [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
-    Working on RCA for CFIS data and multi-CCD RCA.
+    _Working on RCA for CFIS data and multi-CCD RCA._
 
 ## Awards
 
