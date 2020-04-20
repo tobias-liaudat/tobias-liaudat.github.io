@@ -9,7 +9,7 @@ baseurl: ""
 url: ""
 image_path: /assets/images
 
-google_analytics: 163435936
+google_analytics: UA-163435936-1
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
