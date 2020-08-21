@@ -6,7 +6,7 @@ ref: Publications
 order: 2
 ---
 
-## Preprints
+## Journal
 
 * C. Kervazo, **T. Liaudat**, J. Bobin.  
     *Faster and better sparse blind source separation through mini-batch optimization* [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827)
