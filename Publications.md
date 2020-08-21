@@ -9,8 +9,8 @@ order: 2
 ## Preprints
 
 * C. Kervazo, **T. Liaudat**, J. Bobin.  
-    [Faster and better sparse blind source separation through mini-batch optimization](https://hal.archives-ouvertes.fr/hal-02426991/)  
-    Submitted to Digital Signal Processing, Elsevier.
+    Faster and better sparse blind source separation through mini-batch optimization [(Open version)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier version)](https://doi.org/10.1016/j.dsp.2020.102827)
+    Digital Signal Processing, Elsevier.
 
 ## Conference proceedings
 
