@@ -17,4 +17,4 @@ If you are looking for an internship or a PhD check out the [offers](http://www.
 ## Miscellaneous
 
 Check out the page [slides.com](https://slides.com). It allows you to create very nice presentations online that are based on
-[reveal JS](https://revealjs.com) hosted in [GitHub](https://github.com/hakimel/reveal.js/).
+[reveal JS](https://revealjs.com) hosted in [GitHub](https://github.com/hakimel/reveal.js/). 
