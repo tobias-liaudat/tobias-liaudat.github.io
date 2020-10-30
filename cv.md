@@ -97,7 +97,8 @@ order: 1
 ## Supervision
 
 * [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
-    _Joint supervision with Jean-Luc Starck. Working on RCA for CFIS data and multi-CCD RCA._
+    _Joint supervision with Jean-Luc Starck._  
+    _Working on RCA for CFIS data and multi-CCD RCA._  
 
 ## Awards
 
