@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tobias Liaudat
-tagline: PhD student in Signal Processing and Astrophysics at CEA Saclay.
+tagline: PhD student in Signal Processing and Machine Learning applied to Astrophysics at CEA Saclay.
 ---
 
 ## News
