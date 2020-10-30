@@ -8,11 +8,12 @@ order: 2
 
 ## In the pipeline
 
-* **T. Liaudat**, J. Bonnin, J.-L. Starck, M.A. Schmitz, A. Guinot, M. Kilbinger, S.D.J. Gwyn.  
-    *Multi-CCD Point Spread Function Modelling*  
-    Submitted. (Oct. 2020)  
 
 ## Journal
+
+* **T. Liaudat**, J. Bonnin, J.-L. Starck, M.A. Schmitz, A. Guinot, M. Kilbinger, S.D.J. Gwyn.  
+    *Multi-CCD Point Spread Function Modelling* [(code)](https://github.com/CosmoStat/mccd)  
+    Submitted. (Oct. 2020)  
 
 * C. Kervazo, **T. Liaudat**, J. Bobin.  
     *Faster and better sparse blind source separation through mini-batch optimization* [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827)  
