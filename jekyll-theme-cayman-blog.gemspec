@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
 
   s.platform      = Gem::Platform::RUBY
   s.add_runtime_dependency "jekyll", '> 3.5', '< 5.0'
+  s.add_runtime_dependency "kramdown", ">= 2.3.0"
   s.add_runtime_dependency 'jekyll-latex'
   s.add_runtime_dependency "jekyll-target-blank"
   s.add_development_dependency 'html-proofer', '~> 3.0'
