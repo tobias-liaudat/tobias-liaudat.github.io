@@ -12,7 +12,7 @@ order: 2
 ## Journal
 
 * **T. Liaudat**, J. Bonnin, J.-L. Starck, M.A. Schmitz, A. Guinot, M. Kilbinger, S.D.J. Gwyn.  
-    *Multi-CCD Point Spread Function Modelling* [(code)](https://github.com/CosmoStat/mccd)  
+    *Multi-CCD Point Spread Function Modelling* [(arXiv)](https://arxiv.org/abs/2011.09835)[(code)](https://github.com/CosmoStat/mccd)  
     Submitted. (Oct. 2020)  
 
 * C. Kervazo, **T. Liaudat**, J. Bobin.  

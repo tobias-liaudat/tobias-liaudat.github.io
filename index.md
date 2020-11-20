@@ -1,10 +1,12 @@
 ---
 layout: home
 title: Tobias Liaudat
-tagline: PhD student in Signal Processing and Machine Learning applied to Astrophysics at CEA Saclay.
+tagline: PhD student in Signal Processing and Machine Learning applied to Astrophysics.
 ---
 
 ## News
+
+- **(20/11/2020)** Our article _Multi-CCD Point Spread Function Modelling_ was released in the [arXiv](https://arxiv.org/abs/2011.09835).
 
 - **(02/10/2020)** Our article _Multi-CCD Point Spread Function Modelling_ was submitted and the code is [released](https://github.com/CosmoStat/mccd).  
 
@@ -12,4 +14,4 @@ tagline: PhD student in Signal Processing and Machine Learning applied to Astrop
 
 - **(20/08/2020)** Our article [Faster and better sparse blind source separation through mini-batch optimization](https://doi.org/10.1016/j.dsp.2020.102827) was accepted at the journal Digital Signal Processing from Elsevier.  
 
-Last update: _30/10/2020_
+Last update: _20/11/2020_
