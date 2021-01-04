@@ -12,8 +12,8 @@ order: 2
 ## Journal
 
 * **T. Liaudat**, J. Bonnin, J.-L. Starck, M.A. Schmitz, A. Guinot, M. Kilbinger, S.D.J. Gwyn.  
-    *Multi-CCD Point Spread Function Modelling* [(arXiv)](https://arxiv.org/abs/2011.09835)[(code)](https://github.com/CosmoStat/mccd)  
-    Submitted. (Oct. 2020)  
+    *Multi-CCD modelling of the point spread function* [(DOI)](https://doi.org/10.1051/0004-6361/202039584)[(arXiv)](https://arxiv.org/abs/2011.09835)[(code)](https://github.com/CosmoStat/mccd)  
+    Astronomy and Astrophysics. (Dec. 2020)  
 
 * C. Kervazo, **T. Liaudat**, J. Bobin.  
     *Faster and better sparse blind source separation through mini-batch optimization* [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827)  
