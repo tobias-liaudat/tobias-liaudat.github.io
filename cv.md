@@ -93,6 +93,10 @@ order: 1
     Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr)  
     The courses:
     - Statistics [MAP433](https://moodle.polytechnique.fr/enrol/index.php?id=9662) for 2nd year engineering cycle students.  
+    - Optimisation and control [MAP435](http://www.cmap.polytechnique.fr/~allaire/cours_map435.html) for 2nd year engineering cycle students.  
+    - Mathematical modelling [MAA107](https://moodle.polytechnique.fr/enrol/index.php?id=10514) for 1st year bachelor students.  
+    - Python [MAP361P](https://moodle.polytechnique.fr/enrol/index.php?id=10152) for 1st year engineering cycle students.  
+
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
 
@@ -100,7 +104,7 @@ order: 1
 
 ## Collaborations
 
-Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org).  
+Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org) and the Canada France Imaging Survey ([CFIS](https://www.cfht.hawaii.edu/Science/CFIS/)).
 
 
 ## Reviews
@@ -113,6 +117,10 @@ I reviewed papers for the following journal:
 * [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
     _Working on RCA for CFIS data and multi-CCD RCA._  
+
+* [Aziz Ayed](https://www.linkedin.com/in/aziz-ayed-b614a1170/?originalSubdomain=fr) - Master student, 6 month internship at CosmoStat.  
+    _Joint supervision with Jean-Luc Starck._  
+    _Working on machine learning based denoising strategy for the [MCCD](https://doi.org/10.1051/0004-6361/202039584) PSF modelling method._  
 
 ## Languages
 
