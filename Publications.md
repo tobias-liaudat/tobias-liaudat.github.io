@@ -25,3 +25,7 @@ order: 2
 *  **T. Liaudat**, C. Kervazo, J. Bobin.  
     *Distributed sparse BSS for large-scale datasets* [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)  
     SPARS conference, Toulouse, France, 2019.  
+
+## Talks
+
+*  UNIONS Collaboration meeting of 2021. *Multi-CCD PSF modelling method.* [Meeting information.](https://indico.in2p3.fr/event/23099/overview) [Slides.](https://github.com/tobias-liaudat/slides/tree/master/slides/2021-03-UNIONS_consortium_meeting)  

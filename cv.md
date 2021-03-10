@@ -104,7 +104,7 @@ order: 1
 
 ## Collaborations
 
-Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org) and the Canada France Imaging Survey ([CFIS](https://www.cfht.hawaii.edu/Science/CFIS/)).
+Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org) and the UNIONS/Canada France Imaging Survey ([CFIS](https://www.cfht.hawaii.edu/Science/CFIS/)).
 
 
 ## Reviews
