@@ -111,7 +111,13 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  // background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  // background-image: url("../images/header3.jpg");
+  // background-image: url("../images/header_hubble.jpg");
+  // background-image: url("../images/header2_starry.jpg");
+  background-image: url("../images/header5.jpg");
+  background-size: 100% 100%;
+
 
   @include large {
     padding: 5rem 6rem;
@@ -146,7 +152,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 0.9;
 
   @include large {
     font-size: 1.25rem;
@@ -182,6 +188,8 @@ a {
 
 .main-content {
   word-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-word;
 
   :first-child {
     margin-top: 0;
