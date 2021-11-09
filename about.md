@@ -31,7 +31,7 @@ The main motivation of my PhD is to develop a data-driven model for *Euclid*'s s
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/Euclid-esa.jpg){:.img_float_euclid}](https://www.euclid-ec.org)
 
-The *Euclid* space telescope, to be launched in 2023, from the European Space Agency ([ESA](https://www.esa.int)), will be able to observe the sky in the optical and infrared, and will be able to map large scale structures and weak lensing distortions out to high redshifts. Weak gravitational lensing is a fundamental tool of cosmology to constrain models. For the mission to be successful the measurements have to be very precise and, therefore, it is vital to have a reliable PSF model.
+The *Euclid* space telescope, to be launched in 2023 from the European Space Agency ([ESA](https://www.esa.int)), will be able to observe the sky in the optical and infrared, and will be able to map large scale structures and weak lensing distortions out to high redshifts. Weak gravitational lensing is a fundamental tool of cosmology to constrain models. For the mission to be successful the measurements have to be very precise and, therefore, it is vital to have a reliable PSF model.
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CFHT.jpg){:.img_float_cfht}](https://www.cfht.hawaii.edu)
 
