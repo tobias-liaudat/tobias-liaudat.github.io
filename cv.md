@@ -8,19 +8,30 @@ order: 1
 
 ## Basic Information
 
-* Nationality: Argentinian  
+* **Nationality and date of birth:** Argentinian, 18 May 1994
 
-* Email: [tobias [*dot*] liaudat [*at*] cea [*dot*] fr](mailto:tobias.liaudat@cea.fr)
+* **Email:** [tobiasliaudat [*at*] gmail [*dot*] com](mailto:tobiasliaudat@gmail.com)
 
-* Address:  
+* **Address:**  
     Office 272, Building 709,  
     Service d’Astrophysique, CEA Saclay,  
     Orme des Merisiers,
     F-91191 Gif-sur-Yvette, France.
 
+* **Download:** [PDF version]({{ site.docs_path }}/CV_tobias_webpage.pdf) (last updated 08/11/2021).
+
 ## Education
 
 <div class="begin-examples"></div>
+
+* Nov 2019 - Present: **CEA-Saclay**, Paris Region, France  
+    PhD student in astrophysics from the Université Paris-Saclay.  
+    _Data-driven modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
+    _Supervisors: [Jean-Luc Starck](http://jstarck.cosmostat.org) & [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger)._
+
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
+
+<div style="clear: both;"></div>
 
 * 2012 - 2019: **Universidad de Buenos Aires (UBA)**, Buenos Aires, Argentina  
     Electronic Engineering Diploma. GPA: 9.23/10  
@@ -49,16 +60,6 @@ order: 1
 
 ## Work Experience
 
-
-* Nov 2019 - Present: **Commissariat à l’Énergie Atomique (CEA)**, Paris Region, France  
-    Position: PhD student.  
-    _Modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
-    _Supervisors: [Jean-Luc Starck](http://jstarck.cosmostat.org) & [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger)._
-
-
-[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
-
-<div style="clear: both;"></div>
 
 * Oct 2018 - Jan 2019: **ENSAE Paris**, Paris Region, France  
     Position: Research assistant  
@@ -95,8 +96,15 @@ order: 1
     - Statistics [MAP433](https://moodle.polytechnique.fr/enrol/index.php?id=9662) for 2nd year engineering cycle students.  
     - Optimisation and control [MAP435](http://www.cmap.polytechnique.fr/~allaire/cours_map435.html) for 2nd year engineering cycle students.  
     - Mathematical modelling [MAA107](https://moodle.polytechnique.fr/enrol/index.php?id=10514) for 1st year bachelor students.  
-    - Python [MAP361P](https://moodle.polytechnique.fr/enrol/index.php?id=10152) for 1st year engineering cycle students.  
+    - Python projects [MAP361P](https://moodle.polytechnique.fr/enrol/index.php?id=10152) for 1st year engineering cycle students.
 
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
+
+* 2021 - 2022: **École Polytechnique**,  Paris Region, France
+    Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr)  
+    The courses: 
+    - Optimisation and control [MAP435](http://www.cmap.polytechnique.fr/~allaire/cours_map435.html) for 2nd year engineering cycle students.  
+    - Python projects [MAP361P](https://moodle.polytechnique.fr/enrol/index.php?id=10152) for 1st year engineering cycle students.  
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
 
@@ -104,31 +112,32 @@ order: 1
 
 ## Collaborations
 
-Right now, I am part of the [Euclid Consortium](https://www.euclid-ec.org) and the UNIONS/Canada France Imaging Survey ([CFIS](https://www.cfht.hawaii.edu/Science/CFIS/)).
-
+- [Euclid Consortium](https://www.euclid-ec.org) (2019 - Present).  
+- [UNIONS/CFIS collaboration](https://www.cfht.hawaii.edu/Science/CFIS/) (2019 - Present).
 
 ## Reviews
-
-I reviewed papers for the following journal:  
 * Astronomical Journal from [AAS](https://journals.aas.org/astronomical-journal/) (1 research article).
 
 ## Supervision
 
 * [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
-    _Working on RCA for CFIS data and multi-CCD RCA._  
+    _Working on RCA for CFIS data and multi-CCD RCA (2019-2020)._  
 
 * [Aziz Ayed](https://www.linkedin.com/in/aziz-ayed-b614a1170/?originalSubdomain=fr) - Master student, 6 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
-    _Working on machine learning based denoising strategy for the [MCCD](https://doi.org/10.1051/0004-6361/202039584) PSF modelling method._  
+    _Deep denoising strategy for the [MCCD](https://doi.org/10.1051/0004-6361/202039584) PSF modelling method (2021)._  
+
+## Technical skills
+
+| **Main programming language:** | Python (TensorFlow, Numpy, ..) |
+| **Programming languages I have used:**  | MATLAB, C, Java, Shell, Assembly   |
+| **Other tools:**  | Git, LaTex, HPC (SLURM, TORQUE, SMP), CI, PyPI   |
+| **Astronomical software:**  | PSFEx, SExtractor, GalSim, ShapePipe   |
 
 ## Languages
 
-* Spanish: Mother tongue
-
-* English: Fluent
-
-* French: Fluent
+* Mother tongue: _Spanish_. Fluent: _English_ & _French_.
 
 ## Awards
 
@@ -136,7 +145,9 @@ I reviewed papers for the following journal:
     _Universidad de Buenos Aires._
 
 * Mar 2016: [Eiffel Excellence Scholarship](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)   
-    _Campus France._
+    _Campus France._  
+    Awarded to outstanding international students to do a double-degree in France
 
 * Dec 2011: Gold Medal Award  
-    _St. Luke's College, Argentina. (High school)_
+    _St. Luke's College, Argentina. (High school)_  
+    Delivered to the best student of the 2011 class.
