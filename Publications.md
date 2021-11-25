@@ -30,7 +30,7 @@ order: 2
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
-    NeurIPS 2021 Workshop on Machine Learning and the Physical Sciences. Vancouver, Canada (online). (2021)
+    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021)[(arXiv)](https://arxiv.org/abs/2111.12541)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Semi-parametric wavefront modelling for the point spread function.*
