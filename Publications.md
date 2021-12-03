@@ -30,11 +30,11 @@ order: 2
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
-    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021)[(arXiv)](https://arxiv.org/abs/2111.12541)
+    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Semi-parametric wavefront modelling for the point spread function.*
-    In [proceedings](https://jds2021.sciencesconf.org/) of the 52eme Journèes de Statistiques de la Societé Française de Statistique (SFdS).
+    In [proceedings](https://jds2021.sciencesconf.org/) of the 52eme Journèes de Statistiques de la Societé Française de Statistique (SFdS). (2021) [(HAL)](https://hal.archives-ouvertes.fr/hal-03444576)
 
 * **Liaudat, T.**, Bobin, J., and Kervazo, C.  
     *Distributed sparse BSS for large-scale datasets*    
