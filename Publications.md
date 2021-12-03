@@ -8,7 +8,7 @@ order: 2
 
 ## In the pipeline
 
-* *Differentiable wavefront PSF modelling..*  
+* *Rethinking data-driven PSF modelling..*  
 
 * *Deep denoisers for PSF models..*
 
@@ -20,11 +20,11 @@ order: 2
 
 * **Liaudat, T.**, Bonnin, J., Starck, J.-L., Schmitz, M. A., Guinot, A., Kilbinger, M., and Gwyn, S. D. J.  
     *Multi-CCD modelling of the point spread function*    
-    A&A, 646:A27. (Dec. 2020) [(DOI)](https://doi.org/10.1051/0004-6361/202039584)[(arXiv)](https://arxiv.org/abs/2011.09835)[(code)](https://github.com/CosmoStat/mccd)
+    A&A, 646:A27. (Dec. 2020) [(DOI)](https://doi.org/10.1051/0004-6361/202039584) [(arXiv)](https://arxiv.org/abs/2011.09835) [(code)](https://github.com/CosmoStat/mccd)
 
 * Kervazo, C., **Liaudat, T.**, and Bobin, J.   
     *Faster and better sparse blind source separation through mini-batch optimization*    
-    Digital Signal Processing, Elsevier. (Nov. 2020) [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827)[(code)](https://github.com/jbobin/dGMCA)
+    Digital Signal Processing, Elsevier. (Nov. 2020) [(HAL)](https://hal.archives-ouvertes.fr/hal-02426991/) [(Elsevier)](https://doi.org/10.1016/j.dsp.2020.102827) [(code)](https://github.com/jbobin/dGMCA)
 
 ## Peer-reviewed conference proceedings
 
@@ -38,7 +38,7 @@ order: 2
 
 * **Liaudat, T.**, Bobin, J., and Kervazo, C.  
     *Distributed sparse BSS for large-scale datasets*    
-    SPARS conference, Toulouse, France. (2019)  [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf) [(code)](https://github.com/tobias-liaudat/DGMCA)
+    SPARS conference, Toulouse, France. (2019) [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf) [(code)](https://github.com/tobias-liaudat/DGMCA)
 
 ## Talks
 
