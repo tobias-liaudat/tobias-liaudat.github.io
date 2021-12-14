@@ -8,9 +8,9 @@ order: 2
 
 ## In the pipeline
 
-* *Rethinking data-driven PSF modelling..*  
+* *Rethinking data-driven PSF modelling..* (Journal article)  
 
-* *Deep denoisers for PSF models..*
+* *Deep denoisers for PSF models..* (Journal article)
 
 ## Peer-reviewed scientific journals
 
@@ -30,7 +30,7 @@ order: 2
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
-    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541)
+    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code soon)](https://github.com/tobias-liaudat)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Semi-parametric wavefront modelling for the point spread function.*
