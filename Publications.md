@@ -8,9 +8,11 @@ order: 2
 
 ## In the pipeline
 
-* *Rethinking data-driven PSF modelling..* (Journal article)  
+* *Rethinking data-driven PSF modelling..* (First author, journal article)  
 
-* *Deep denoisers for PSF models..* (Journal article)
+* *Deep denoisers for PSF models..* (First author, journal article)
+
+* *Shapepipe: A modular weak-lensing processing and analysis pipeline.* (Not first author, software journal article)
 
 ## Peer-reviewed scientific journals
 
