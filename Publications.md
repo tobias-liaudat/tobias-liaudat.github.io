@@ -8,7 +8,7 @@ order: 2
 
 ## In the pipeline
 
-* *Deep Plug \& Plays optical prior for ground-based telescope PSF models...* (First author, journal article)
+* *Deep Plug & Plays optical prior for ground-based telescope PSF models...* (First author, journal article)
 
 * *Shapepipe: A modular weak-lensing processing and analysis pipeline.* (Not first author, software journal article)
 
