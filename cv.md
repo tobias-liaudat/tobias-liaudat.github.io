@@ -120,13 +120,19 @@ order: 1
 
 ## Supervision
 
-* [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
+* [Ezequiel Centofanti](https://www.linkedin.com/in/ezequiel-centofanti-4404b7189/?originalSubdomain=fr) - Master student, 6 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
-    _Working on RCA for CFIS data and multi-CCD RCA (2019-2020)._  
+    _Joint PSF and stellar SED estimation for Euclid (2022)._  
 
 * [Aziz Ayed](https://www.linkedin.com/in/aziz-ayed-b614a1170/?originalSubdomain=fr) - Master student, 6 month internship at CosmoStat.  
     _Joint supervision with Jean-Luc Starck._  
     _Deep denoising strategy for the [MCCD](https://doi.org/10.1051/0004-6361/202039584) PSF modelling method (2021)._  
+
+* [Jérôme Bonnin](https://www.linkedin.com/in/jérôme-bonnin-338260161/) - Master student, 5 month internship at CosmoStat.  
+    _Joint supervision with Jean-Luc Starck._  
+    _Working on RCA for CFIS data and multi-CCD RCA (2019-2020)._  
+
+
 
 ## Technical skills
 
