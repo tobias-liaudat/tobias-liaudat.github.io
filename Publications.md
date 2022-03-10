@@ -8,13 +8,15 @@ order: 2
 
 ## In the pipeline
 
-* *Rethinking data-driven PSF modelling..* (First author, journal article)  
-
 * *Deep denoisers for PSF models..* (First author, journal article)
 
 * *Shapepipe: A modular weak-lensing processing and analysis pipeline.* (Not first author, software journal article)
 
 ## Peer-reviewed scientific journals
+
+* **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.
+    *Rethinking data-driven point spread function modeling with a differentiable optical model.*  
+    Submitted. (2022) [(arXiv)](https://arxiv.org/abs/2203.04908) [(code)](https://github.com/tobias-liaudat/wf-psf)
 
 * Guinot, A., Kilbinger, M., Farrens, S., Peel, A., Pujol, A., Schmitz, M., Starck, J.-L., Erben, T., Gavazzi, R., Gwyn, S. D. J., Hudson, M. J., Hildebrandt, H., **Liaudat, T.**, Miller, L., Spitzer, I., Van Waerbeke, L., Cuillandre, J.- C., Fabbro, S., McConnachie, A., and Mellier, Y. (2021).  
     *Shapepipe: a new shape measurement pipeline and weak-lensing application to UNIONS/CFIS data*.  
@@ -30,9 +32,9 @@ order: 2
 
 ## Peer-reviewed conference proceedings
 
-* **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
+* **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
-    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code soon)](https://github.com/tobias-liaudat)
+    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code)](https://github.com/tobias-liaudat/wf-psf)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Semi-parametric wavefront modelling for the point spread function.*
