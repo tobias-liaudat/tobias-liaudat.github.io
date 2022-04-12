@@ -20,7 +20,7 @@ order: 2
 
 * Guinot, A., Kilbinger, M., Farrens, S., Peel, A., Pujol, A., Schmitz, M., Starck, J.-L., Erben, T., Gavazzi, R., Gwyn, S. D. J., Hudson, M. J., Hildebrandt, H., **Liaudat, T.**, Miller, L., Spitzer, I., Van Waerbeke, L., Cuillandre, J.- C., Fabbro, S., McConnachie, A., and Mellier, Y. (2021).  
     *Shapepipe: a new shape measurement pipeline and weak-lensing application to UNIONS/CFIS data*.  
-    Submitted to A&A (July 2021).
+    Submitted to A&A. (July 2021) [(arXiv)](https://arxiv.org/abs/2204.04798) [(code)](https://github.com/CosmoStat/shapepipe)
 
 * **Liaudat, T.**, Bonnin, J., Starck, J.-L., Schmitz, M. A., Guinot, A., Kilbinger, M., and Gwyn, S. D. J.  
     *Multi-CCD modelling of the point spread function*    
@@ -46,6 +46,8 @@ order: 2
 
 ## Talks
 
+* Seminar to the Biomedical and Astronomical Signal Processing group ([BASP](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)) at Heriot-Watt University of Edinburgh. Online. March 2022.
+* SIAM 2022 Conference on Imaging Science ([IS22](https://www.siam.org/conferences/cm/conference/is22)). Online. March 2022.
 * NeurIPS, Machine Learning and the Physical Sciences [Workshop](https://ml4physicalsciences.github.io/2021/). (Poster) Online. Dec. 2021.
 * [Symposium](https://indico.in2p3.fr/event/24640/) Euclid-France 2021. Grenoble, France. Nov. 2021.
 * Lancement de l’axe Astrophysique de la [Graduate School Physique](https://openagenda.com/universite-paris-saclay/events/astrophysiqueparis-saclay). Saclay, France. Nov. 2021.
