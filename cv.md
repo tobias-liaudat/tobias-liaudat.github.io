@@ -18,7 +18,7 @@ order: 1
     Orme des Merisiers,
     F-91191 Gif-sur-Yvette, France.
 
-* **Download:** [PDF version]({{ site.docs_path }}/CV_tobias_webpage.pdf) (last updated 08/11/2021).
+* **Download:** [PDF version]({{ site.docs_path }}/CV_tobias_webpage.pdf) (last updated 12/04/2022).
 
 ## Education
 
