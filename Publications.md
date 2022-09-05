@@ -9,22 +9,25 @@ order: 2
 ## In the pipeline
 
 * *Deep Plug & Plays optical prior for ground-based telescope PSF models...* (First author, journal article)
-
-* *Shapepipe: A modular weak-lensing processing and analysis pipeline.* (Not first author, software journal article)
+* Some other projects...
 
 ## Peer-reviewed scientific journals
 
-* **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.
-    *Rethinking data-driven point spread function modeling with a differentiable optical model.*  
-    Submitted. (2022) [(arXiv)](https://arxiv.org/abs/2203.04908) [(code)](https://github.com/tobias-liaudat/wf-psf)
+* Farrens, S., Guinot, A., Kilbinger, M., **Liaudat, T.**, Baumont L., Jimenez X., Peel A., Pujol A., Schmitz M., Starck, J.-L., and Vitorelli, A. Z.,  
+    *Shapepipe: A modular weak-lensing processing and analysis pipeline.*  
+    A&A, 664:A141. (Aug. 2022) [(DOI)](https://doi.org/10.1051/0004-6361/202243970) [(arXiv:2206.14689)](https://arxiv.org/abs/2206.14689) [(code)](https://github.com/CosmoStat/shapepipe)
 
-* Guinot, A., Kilbinger, M., Farrens, S., Peel, A., Pujol, A., Schmitz, M., Starck, J.-L., Erben, T., Gavazzi, R., Gwyn, S. D. J., Hudson, M. J., Hildebrandt, H., **Liaudat, T.**, Miller, L., Spitzer, I., Van Waerbeke, L., Cuillandre, J.- C., Fabbro, S., McConnachie, A., and Mellier, Y. (2021).  
+* **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.,  
+    *Rethinking data-driven point spread function modeling with a differentiable optical model.*  
+    Submitted. (2022) [(arXiv:2203.04908)](https://arxiv.org/abs/2203.04908) [(code)](https://github.com/tobias-liaudat/wf-psf)
+
+* Guinot, A., Kilbinger, M., Farrens, S., Peel, A., Pujol, A., Schmitz, M., Starck, J.-L., Erben, T., Gavazzi, R., Gwyn, S. D. J., Hudson, M. J., Hildebrandt, H., **Liaudat, T.**, Miller, L., Spitzer, I., Van Waerbeke, L., Cuillandre, J.- C., Fabbro, S., McConnachie, A., and Mellier, Y.,    
     *Shapepipe: a new shape measurement pipeline and weak-lensing application to UNIONS/CFIS data*.  
-    Submitted to A&A. (July 2021) [(arXiv)](https://arxiv.org/abs/2204.04798) [(code)](https://github.com/CosmoStat/shapepipe)
+    Accepted to A&A. (July 2021) [(arXiv:2204.04798)](https://arxiv.org/abs/2204.04798) [(code)](https://github.com/CosmoStat/shapepipe)
 
 * **Liaudat, T.**, Bonnin, J., Starck, J.-L., Schmitz, M. A., Guinot, A., Kilbinger, M., and Gwyn, S. D. J.  
     *Multi-CCD modelling of the point spread function*    
-    A&A, 646:A27. (Dec. 2020) [(DOI)](https://doi.org/10.1051/0004-6361/202039584) [(arXiv)](https://arxiv.org/abs/2011.09835) [(code)](https://github.com/CosmoStat/mccd)
+    A&A, 646:A27. (Dec. 2020) [(DOI)](https://doi.org/10.1051/0004-6361/202039584) [(arXiv:2011.09835)](https://arxiv.org/abs/2011.09835) [(code)](https://github.com/CosmoStat/mccd)
 
 * Kervazo, C., **Liaudat, T.**, and Bobin, J.   
     *Faster and better sparse blind source separation through mini-batch optimization*    
@@ -34,7 +37,7 @@ order: 2
 
 * **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
-    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code)](https://github.com/tobias-liaudat/wf-psf)
+    Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv:2111.12541)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code)](https://github.com/tobias-liaudat/wf-psf)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
     *Semi-parametric wavefront modelling for the point spread function.*
