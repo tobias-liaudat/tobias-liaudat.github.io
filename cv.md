@@ -26,7 +26,7 @@ order: 1
 
 * Nov 2019 - Present: **CEA-Saclay**, Paris Region, France  
     PhD student in astrophysics from the Université Paris-Saclay.  
-    _Data-driven modelling of the PSF (Point Spread function) for the [Euclid](https://www.euclid-ec.org) space mission._  
+    _Data-driven modelling of ground-based and space-based telescope's point spread functions._  
     _Supervisors: [Jean-Luc Starck](http://jstarck.cosmostat.org) & [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger)._
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CEA_sq.png){:.logo}](http://www.cea.fr){:.logo}
