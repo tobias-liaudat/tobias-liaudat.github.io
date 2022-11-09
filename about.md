@@ -19,11 +19,11 @@ I was born and raised in the beautiful city of Buenos Aires, Argentina. My acade
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/cosmostat_logo.jpg){:.img_float}](http://www.cosmostat.org/)
 
-*I am currently a PhD student working on the crossroads of inverse problems, machine learning and cosmology.* *I enjoy including the underlying physics of our problem into the inverse problem with the help of Machine Learning to build novel and better methodologies that can tackle the challenges raised in Cosmology by future missions.*
+*During my PhD I worked on the crossroads of inverse problems, machine learning and cosmology.* *I enjoy including the underlying physics of our problem into the inverse problem with the help of Machine Learning to build novel and better methodologies that can tackle the challenges raised in Cosmology by future missions.*
 
-I work at the [CosmoStat](http://www.cosmostat.org) laboratory, based on the [Astrophysics department](http://irfu.cea.fr/dap/) of the [CEA-Saclay](http://www.cea.fr) research center. My supervisors are [Jean-Luc Starck](http://jstarck.cosmostat.org) and [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger). The CosmoStat laboratory comprises researchers with different backgrounds, mostly in cosmology, signal processing and machine learning, working in synergy to solve the new challenges arriving in Cosmology.
+I did my PhD at the [CosmoStat](http://www.cosmostat.org) laboratory, based on the [Astrophysics department](http://irfu.cea.fr/dap/) of the [CEA-Saclay](http://www.cea.fr) research center. My supervisors are [Jean-Luc Starck](http://jstarck.cosmostat.org) and [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger). The CosmoStat laboratory comprises researchers with different backgrounds, mostly in cosmology, signal processing and machine learning, working in synergy to solve the new challenges arriving in Cosmology.
 
-I am one of CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organisers, our group seminar/journal club. If you are interested in giving a talk and meeting the group feel free to [contact me](mailto:tobiasliaudat@gmail.com).
+I was one of CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organisers, our group seminar/journal club.
 
 ## The PhD
 
@@ -35,8 +35,9 @@ The soon-to-be-launched *Euclid* space telescope, from the European Space Agency
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/CFHT.jpg){:.img_float_cfht}](https://www.cfht.hawaii.edu)
 
-I am also working on a data-driven PSF model for ground-based telescopes. I developed a new modelling method to make a PSF model simultaneously on the entire focal plane, incorporating the instrument's geometry. I validated the approach with real data from the r-band of the CFIS survey at the Canada France Hawaii Telescope (CFHT). Later, I integrated the model into a high-performance shape measurement pipeline, [ShapePipe](https://doi.org/10.1051/0004-6361/202243970). We are now using this PSF model to process a vast amount of data (~3600 deg2) from the CFIS survey and build a shape catalogue useful for weak lensing studies.
+I am also working on a data-driven PSF model for ground-based telescopes. I developed a new modelling method to make a PSF model simultaneously on the entire focal plane, incorporating the instrument's geometry. I validated the approach with real data from the r-band of the CFIS survey at the Canada France Hawaii Telescope (CFHT). Later, I integrated the model into a high-performance shape measurement pipeline, [ShapePipe](https://doi.org/10.1051/0004-6361/202243970). We used this PSF model to process a vast amount of data (~3600 deg2) from the CFIS survey, and have built a shape catalogue useful for weak lensing studies.
 
+You can check out the recording of my PhD defence on [YouTube](https://www.youtube.com/watch?v=gTfn0sLaMFk). The thesis manuscript will soon be made available online.
 
 ## Research interests
 
