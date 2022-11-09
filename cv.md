@@ -18,14 +18,14 @@ order: 1
     Orme des Merisiers,
     F-91191 Gif-sur-Yvette, France.
 
-* **Download:** [PDF version]({{ site.docs_path }}/CV_tobias_webpage.pdf) (last updated 12/04/2022).
+* **Download:** [PDF version]({{ site.docs_path }}/CV_tobias_webpage.pdf) (last updated 09/11/2022).
 
 ## Education
 
 <div class="begin-examples"></div>
 
-* Nov 2019 - Present: **CEA-Saclay**, Paris Region, France  
-    PhD student in astrophysics from the Université Paris-Saclay.  
+* Nov 2019 - Nov 2022: **CEA-Saclay**, Paris Region, France  
+    PhD in Physics from the Université Paris-Saclay.  
     _Data-driven modelling of ground-based and space-based telescope's point spread functions._  
     _Supervisors: [Jean-Luc Starck](http://jstarck.cosmostat.org) & [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger)._
 
@@ -91,7 +91,7 @@ order: 1
 ## Teaching
 
 * 2020 - 2021: **École Polytechnique**,  Paris Region, France
-    Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr)  
+    Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr), 64h  
     The courses:
     - Statistics [MAP433](https://moodle.polytechnique.fr/enrol/index.php?id=9662) for 2nd year engineering cycle students.  
     - Optimisation and control [MAP435](http://www.cmap.polytechnique.fr/~allaire/cours_map435.html) for 2nd year engineering cycle students.  
@@ -101,10 +101,9 @@ order: 1
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
 
 * 2021 - 2022: **École Polytechnique**,  Paris Region, France
-    Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr)  
+    Applied Mathematics department, [DepMAP](https://portail.polytechnique.edu/mathematiquesappliquees/fr), 32h  
     The courses: 
     - Optimisation and control [MAP435](http://www.cmap.polytechnique.fr/~allaire/cours_map435.html) for 2nd year engineering cycle students.  
-    - Python projects [MAP361P](https://moodle.polytechnique.fr/enrol/index.php?id=10152) for 1st year engineering cycle students.  
 
 [![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/polytechnique.jpg){:.logo}](https://www.polytechnique.edu/en){:.logo}
 
@@ -113,10 +112,12 @@ order: 1
 ## Collaborations
 
 - [Euclid Consortium](https://www.euclid-ec.org) (2019 - Present).  
-- [UNIONS/CFIS collaboration](https://www.cfht.hawaii.edu/Science/CFIS/) (2019 - Present).
+- [UNIONS/CFIS collaboration](https://www.cfht.hawaii.edu/Science/CFIS/) (2019 - Present).  
+- [COSMOS-Webb collaboration](https://www.nasa.gov/feature/goddard/2021/mapping-the-universes-earliest-structures-with-cosmos-webb) (2022 - Present).
 
 ## Reviews
-* Astronomical Journal from [AAS](https://journals.aas.org/astronomical-journal/) (1 research article).
+* Astronomical Journal from [AAS](https://journals.aas.org/astronomical-journal/).  
+* NeurIPS 2022 [workshop](https://ml4physicalsciences.github.io/2022/): Machine Learning and the physical sciences.
 
 ## Supervision
 
