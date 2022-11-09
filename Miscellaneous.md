@@ -12,7 +12,7 @@ Check out the interesting tutorials available [here](https://github.com/CosmoSta
 
 ##  Jobs
 
-If you are looking for an internship or a PhD check out the [offers](http://www.cosmostat.org/jobs) at CosmoStat or check the offers from Jason McEwen's group [here](http://www.jasonmcewen.org/opportunities/).  
+If you are looking for an internship or a PhD check out the [offers](http://www.cosmostat.org/jobs) at CosmoStat or the [offers](http://www.jasonmcewen.org/opportunities/) from Jason McEwen's group.  
 
 ## Outreach
 
