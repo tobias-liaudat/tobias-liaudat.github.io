@@ -1,9 +1,10 @@
 ---
 layout: home
 title: Tobias I. Liaudat
-tagline: PhD student in Signal Processing and Machine Learning applied to Cosmology.
+tagline: Researching on inverse problems in imaging and machine learning with a physical flavour.
 ---
 
+<!-- The tagline has to be changed from the _config.yml file -->
 <!-- ## News
 
 - **(10/03/2021)** I gave a talk at the [2021 UNIONS Collaboration meeting](https://indico.in2p3.fr/event/23099/program) about the Multi-CCD PSF modelling method. Slides are available [here](https://github.com/tobias-liaudat/slides/tree/master/slides/2021-03-UNIONS_consortium_meeting).
@@ -16,4 +17,4 @@ tagline: PhD student in Signal Processing and Machine Learning applied to Cosmol
 
 - **(20/08/2020)** Our article [Faster and better sparse blind source separation through mini-batch optimization](https://doi.org/10.1016/j.dsp.2020.102827) was accepted at the journal Digital Signal Processing from Elsevier.   -->
 
-Last update: _05/09/2022_
+Last update: _09 November 2022_
