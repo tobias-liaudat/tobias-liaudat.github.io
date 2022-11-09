@@ -8,8 +8,8 @@ order: 2
 
 ## In the pipeline
 
-* *Deep Plug & Plays optical prior for ground-based telescope PSF models...* (First author, journal article)
-* Some other projects...
+<!-- * *Deep Plug & Plays optical prior for ground-based telescope PSF models...* (First author, journal article) -->
+* Several projects...
 
 ## Peer-reviewed scientific journals
 
@@ -23,7 +23,7 @@ order: 2
 
 * Guinot, A., Kilbinger, M., Farrens, S., Peel, A., Pujol, A., Schmitz, M., Starck, J.-L., Erben, T., Gavazzi, R., Gwyn, S. D. J., Hudson, M. J., Hildebrandt, H., **Liaudat, T.**, Miller, L., Spitzer, I., Van Waerbeke, L., Cuillandre, J.- C., Fabbro, S., McConnachie, A., and Mellier, Y.,    
     *Shapepipe: a new shape measurement pipeline and weak-lensing application to UNIONS/CFIS data*.  
-    Accepted to A&A. (July 2021) [(arXiv:2204.04798)](https://arxiv.org/abs/2204.04798) [(code)](https://github.com/CosmoStat/shapepipe)
+    A&A, 666:A162. (Oct. 2022) [(DOI)](https://doi.org/10.1051/0004-6361/202141847) [(arXiv:2204.04798)](https://arxiv.org/abs/2204.04798) [(code)](https://github.com/CosmoStat/shapepipe)
 
 * **Liaudat, T.**, Bonnin, J., Starck, J.-L., Schmitz, M. A., Guinot, A., Kilbinger, M., and Gwyn, S. D. J.  
     *Multi-CCD modelling of the point spread function*    
@@ -49,6 +49,7 @@ order: 2
 
 ## Talks
 
+* Seminar at the School of Mathematics and Computer Sciences at Heriot-Watt University of Edinburgh. Edinburgh. September 2022.
 * Seminar to the Biomedical and Astronomical Signal Processing group ([BASP](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)) at Heriot-Watt University of Edinburgh. Online. March 2022.
 * SIAM 2022 Conference on Imaging Science ([IS22](https://www.siam.org/conferences/cm/conference/is22)). Online. March 2022.
 * NeurIPS, Machine Learning and the Physical Sciences [Workshop](https://ml4physicalsciences.github.io/2021/). (Poster) Online. Dec. 2021.
