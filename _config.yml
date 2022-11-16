@@ -30,6 +30,8 @@ docs_path: /assets/docs
 # github_username:  tobias-liaudat
 show_downloads: true
 
+google_analytics: "G-R08VL998HH"
+
 cayman-blog:
   date_format: "%b %-d, %Y"
 
