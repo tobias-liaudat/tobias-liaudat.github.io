@@ -21,9 +21,9 @@ I was born and raised in the beautiful city of Buenos Aires, Argentina. My acade
 
 *During my PhD I worked on the crossroads of inverse problems, machine learning and cosmology.* *I enjoy including the underlying physics of our problem into the inverse problem with the help of Machine Learning to build novel and better methodologies that can tackle the challenges raised in Cosmology by future missions.*
 
-I did my PhD at the [CosmoStat](http://www.cosmostat.org) laboratory, based on the [Astrophysics department](http://irfu.cea.fr/dap/) of the [CEA-Saclay](http://www.cea.fr) research center. My supervisors are [Jean-Luc Starck](http://jstarck.cosmostat.org) and [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger). The CosmoStat laboratory comprises researchers with different backgrounds, mostly in cosmology, signal processing and machine learning, working in synergy to solve the new challenges arriving in Cosmology.
+I did my PhD at the [CosmoStat](http://www.cosmostat.org) laboratory, based on the [Astrophysics department](http://irfu.cea.fr/dap/) of the [CEA-Saclay](http://www.cea.fr) research center. My supervisors are [Jean-Luc Starck](http://jstarck.cosmostat.org) and [Martin Kilbinger](http://www.cosmostat.org/people/kilbinger). The CosmoStat laboratory comprises researchers with different backgrounds, mostly in cosmology, signal processing and machine learning, working in synergy to solve the new challenges arriving in Cosmology. I was one of CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organisers, our group seminar/journal club.
 
-I was one of CosmoStat's [CosmosClub](http://www.cosmostat.org/category/events/cosmosclub) organisers, our group seminar/journal club.
+I am now a postdoctoral fellow at the Computer Science department of the [University College London](https://www.ucl.ac.uk/computer-science/) working on artificial intelligence for imaging with [Jason McEwen](http://www.jasonmcewen.org), [Marta Betcke](http://www0.cs.ucl.ac.uk/people/M.Betcke.html) and [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/index.html)..
 
 ## The PhD
 
@@ -37,11 +37,11 @@ The soon-to-be-launched *Euclid* space telescope, from the European Space Agency
 
 I am also working on a data-driven PSF model for ground-based telescopes. I developed a new modelling method to make a PSF model simultaneously on the entire focal plane, incorporating the instrument's geometry. I validated the approach with real data from the r-band of the CFIS survey at the Canada France Hawaii Telescope (CFHT). Later, I integrated the model into a high-performance shape measurement pipeline, [ShapePipe](https://doi.org/10.1051/0004-6361/202243970). We used this PSF model to process a vast amount of data (~3600 deg2) from the CFIS survey, and have built a shape catalogue useful for weak lensing studies.
 
-You can check out the recording of my PhD defence on [YouTube](https://www.youtube.com/watch?v=gTfn0sLaMFk). The thesis manuscript will soon be made available online.
+You can check out the recording of my PhD defence on [YouTube](https://www.youtube.com/watch?v=gTfn0sLaMFk), or read my [PhD thesis](https://theses.hal.science/tel-03944690).
 
-## Research interests
+<!-- ## Research interests
 
-My main interests are inverse problems, machine learning, cosmology, image and signal processing, point spread function modelling, and convex and non-convex optimisation.
+My main interests are inverse problems, machine learning, cosmology, image and signal processing, point spread function modelling, and convex and non-convex optimisation. -->
 
 
 ## Master Thesis

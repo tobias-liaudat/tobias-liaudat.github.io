@@ -61,6 +61,15 @@ order: 1
 ## Work Experience
 
 
+* Dec 2022 - Now: **University College London**, London, UK  
+    Position: Postdoctoral Research Fellow  
+    _Artificial Intelligence for Imaging._  
+    _Supervisors: [Jason McEwen](http://www.jasonmcewen.org), [Marta Betcke](http://www0.cs.ucl.ac.uk/people/M.Betcke.html) and [Marcelo Pereyra](https://www.macs.hw.ac.uk/~mp71/index.html)._
+
+[![]({{ site.url }}{{ site.baseurl }}{{ site.image_path }}/ucl_v2.png){:.logo}](https://www.ucl.ac.uk/computer-science/){:.logo}
+
+<div style="clear: both;"></div>
+
 * Oct 2018 - Jan 2019: **ENSAE Paris**, Paris Region, France  
     Position: Research assistant  
     _Research assistant in topics around Optimal Transport._  
