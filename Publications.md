@@ -17,7 +17,7 @@ Ordered chronologically in a first-author and not-first-author list.
 
 * **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.,  
     *Rethinking data-driven point spread function modeling with a differentiable optical model.*  
-    IOP Inverse Problems. (2022) [(DOI)](https://doi.org/10.1088/1361-6420/acb664) [(arXiv:2203.04908)](https://arxiv.org/abs/2203.04908) [(code)](https://github.com/tobias-liaudat/wf-psf)
+    IOP Inverse Problems 39 035008. (2023) [(DOI)](https://doi.org/10.1088/1361-6420/acb664) [(arXiv:2203.04908)](https://arxiv.org/abs/2203.04908) [(code)](https://github.com/tobias-liaudat/wf-psf)
 
 * **Liaudat, T.**, Bonnin, J., Starck, J.-L., Schmitz, M. A., Guinot, A., Kilbinger, M., and Gwyn, S. D. J.  
     *Multi-CCD modelling of the point spread function*    
@@ -63,16 +63,16 @@ Ordered chronologically in a first-author and not-first-author list.
 
 * Invited talk at the [BASP frontiers](https://baspfrontiers.org) conference. Villars-sur-Ollon, Switzerland. February 2023.
 * Invited poster at the [ICMS workshop](https://www.icms.org.uk/workshops/2023/interfacing-bayesian-statistics-machine-learning-applied-analysis-and-blind-and-semi) Interfacing Bayesian Statistics, ML, Applied Analysis, and Blind and Semi-Blind Imaging Inverse Problems. Edinburgh, January 2023.
-* Seminar at the School of Mathematics and Computer Sciences at Heriot-Watt University of Edinburgh. Edinburgh. September 2022.
-* Seminar to the Biomedical and Astronomical Signal Processing group ([BASP](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)) at Heriot-Watt University of Edinburgh. Online. March 2022.
-* SIAM 2022 Conference on Imaging Science ([IS22](https://www.siam.org/conferences/cm/conference/is22)). Online. March 2022.
-* NeurIPS, Machine Learning and the Physical Sciences [Workshop](https://ml4physicalsciences.github.io/2021/). (Poster) Online. Dec. 2021.
+* Invited seminar at the School of Mathematics and Computer Sciences at Heriot-Watt University of Edinburgh. Edinburgh. September 2022.
+* Invited seminar to the Biomedical and Astronomical Signal Processing group ([BASP](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/basp.htm)) at Heriot-Watt University of Edinburgh. Online. March 2022.
+* Talk at SIAM 2022 Conference on Imaging Science ([IS22](https://www.siam.org/conferences/cm/conference/is22)). Online. March 2022.
+* Poster at NeurIPS, Machine Learning and the Physical Sciences [Workshop](https://ml4physicalsciences.github.io/2021/). Online. Dec. 2021.
 * [Symposium](https://indico.in2p3.fr/event/24640/) Euclid-France 2021. Grenoble, France. Nov. 2021.
-* Lancement de l’axe Astrophysique de la [Graduate School Physique](https://openagenda.com/universite-paris-saclay/events/astrophysiqueparis-saclay). Saclay, France. Nov. 2021.
-* 52eme Journèes de Statistiques de la Societé Française de Statistique [(SFdS)](https://jds2021.sciencesconf.org/). Online. Jun. 2021.
-* [Peyresq summer school](http://gretsi.fr/peyresq21/index.php) on signal and image processing. Online. Jun. 2021.
-* 2021 UNIONS CFIS/Pan-STARRS/WISHES Collaboration [Meeting](https://indico.in2p3.fr/event/23099/overview). [Slides.](https://github.com/tobias-liaudat/slides/tree/master/slides/2021-03-UNIONS_consortium_meeting)  Online. Mar. 2021.
-* SPARS conference. ([Poster]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)) Toulouse, France. Jul. 2019.
-* CosmoStat’s [seminar](https://www.cosmostat.org/events/cosmosclub/cosmosclub-toby). Optimal transport for signed measures. Saclay, France. Feb. 2019.
+* Talk at lancement de l’axe Astrophysique de la [Graduate School Physique](https://openagenda.com/universite-paris-saclay/events/astrophysiquepartis-saclay). Saclay, France. Nov. 2021.
+* Talk at 52eme Journèes de Statistiques de la Societé Française de Statistique [(SFdS)](https://jds2021.sciencesconf.org/). Online. Jun. 2021.
+* Talk at [Peyresq summer school](http://gretsi.fr/peyresq21/index.php) on signal and image processing. Online. Jun. 2021.
+* Talk at 2021 UNIONS CFIS/Pan-STARRS/WISHES Collaboration [Meeting](https://indico.in2p3.fr/event/23099/overview). [Slides.](https://github.com/tobias-liaudat/slides/tree/master/slides/2021-03-UNIONS_consortium_meeting)  Online. Mar. 2021.
+* Poster at SPARS conference. ([Poster]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf)) Toulouse, France. Jul. 2019.
+* Invited seminar at CosmoStat’s [seminar](https://www.cosmostat.org/events/cosmosclub/cosmosclub-toby). Optimal transport for signed measures. Saclay, France. Feb. 2019.
 
 
