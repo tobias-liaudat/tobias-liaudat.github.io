@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tobias I. Liaudat
+title: Tobías I. Liaudat
 tagline: Researching on inverse problems in imaging and machine learning with a physical flavour.
 ---
 
@@ -17,4 +17,4 @@ tagline: Researching on inverse problems in imaging and machine learning with a 
 
 - **(20/08/2020)** Our article [Faster and better sparse blind source separation through mini-batch optimization](https://doi.org/10.1016/j.dsp.2020.102827) was accepted at the journal Digital Signal Processing from Elsevier.   -->
 
-Last update: _30 January 2023_
+Last update: _16 June 2023_
