@@ -15,9 +15,9 @@ order: 2
 
 Ordered chronologically in a first-author and not-first-author list.
 
-* **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.,  
+* **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.,  
     *Point spread function modelling for astronomical telescopes: a review focused on weak gravitational lensing studies.*  
-    Submitted. (Jun. 2023) [(arXiv:2306.07996)](https://arxiv.org/abs/2306.07996)
+    Accepted. (Jun. 2023) [(arXiv:2306.07996)](https://arxiv.org/abs/2306.07996)
 
 * **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.,  
     *Rethinking data-driven point spread function modeling with a differentiable optical model.*  
@@ -45,16 +45,20 @@ Ordered chronologically in a first-author and not-first-author list.
 
 ## Peer-reviewed conference proceedings
 
+* McEwen, J. D., **Liaudat, T.**, Price, M., Cai, X., and Pereyra, M.  
+    *Proximal nested sampling with data-driven priors for physical scientists.*  
+    International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering. (2023) [(arXiv:2307.00056)](https://arxiv.org/abs/2307.00056) [(code)](https://github.com/astro-informatics/proxnest)
+
 * **Liaudat, T.**, Starck, J.-L., Kilbinger, M., and Frugier, P.-A.  
     *Rethinking the modeling of the instrumental response of telescopes with a differentiable optical model.*  
     Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021). Vancouver, Canada (online). (2021) [(arXiv:2111.12541)](https://arxiv.org/abs/2111.12541) [[Poster]]({{ site.url }}{{ site.baseurl }}/assets/documents/wavefrontPSF_ml4phy.png) [(code)](https://github.com/tobias-liaudat/wf-psf)
 
 * **Liaudat, T.**, Starck, J.-L., and Kilbinger, M.  
-    *Semi-parametric wavefront modelling for the point spread function.*
+    *Semi-parametric wavefront modelling for the point spread function.*  
     In [proceedings](https://jds2021.sciencesconf.org/) of the 52ème Journées de Statistiques de la Société Française de Statistique (SFdS). (2021) [(HAL)](https://hal.archives-ouvertes.fr/hal-03444576)
 
 * **Liaudat, T.**, Bobin, J., and Kervazo, C.  
-    *Distributed sparse BSS for large-scale datasets*    
+    *Distributed sparse BSS for large-scale datasets*  
     SPARS conference, Toulouse, France. (2019) [(HAL)](https://hal.archives-ouvertes.fr/hal-02088466/) [(Poster)]({{ site.url }}{{ site.baseurl }}/assets/documents/Poster_spars2019.pdf) [(code)](https://github.com/tobias-liaudat/DGMCA)
 
 ## PhD thesis
@@ -65,12 +69,13 @@ Ordered chronologically in a first-author and not-first-author list.
 
 ## Upcoming talks and posters
 
-* Talk at the [Applied Inverse Problems (AIP)](http://www.aip2023.com) conference. Göttingen, Germany. September 2023.
-* Talk at the [European Astronomical Society (EAS) annual meeting](https://eas.unige.ch/EAS2023/). Krakow, Poland. July 2023.
-* Poster at the [2023 _Euclid_ Consortium meeting](https://euclid2023.org). Copenhagen, Denmark. June 2023. 
+Loading...
 
 ## Talks and posters
 
+* Invited talk at the [Applied Inverse Problems (AIP)](http://www.aip2023.com) conference. Göttingen, Germany. September 2023.
+* Contributed talk at the [European Astronomical Society (EAS) annual meeting](https://eas.unige.ch/EAS2023/). Krakow, Poland. July 2023.
+* Contributed poster at the [2023 _Euclid_ Consortium meeting](https://euclid2023.org). Copenhagen, Denmark. June 2023. 
 * Invited seminar at the [Imaging in Paris Seminar series](https://imaging-in-paris.github.io/seminar/). Institut Henri Poincaré, Paris, France. June 2023.
 * Invited seminar at UCL's CMIC/WEISS seminar series ([Centre for Medical Imaging Computing](https://www.ucl.ac.uk/medical-image-computing/)). London, UK. June 2023.
 * Invited talk at the [BASP frontiers](https://baspfrontiers.org) conference. Villars-sur-Ollon, Switzerland. February 2023.
