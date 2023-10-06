@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.ucl.ac.uk/computer-science/ucl-computer-science"> Computer Science Dept.</a> & <a href="https://www.ucl.ac.uk/mssl/mullard-space-science-laboratory"> MSSL</a>, University College London. Soon at <a href="https://irfu.cea.fr/en/"> IRFU, CEA Saclay</a>.
 
