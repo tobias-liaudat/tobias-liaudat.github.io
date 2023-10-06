@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tobias-liaudat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CosmoStat/mccd
+  - CosmoStat/wf-psf
+  - CosmoStat/shapepipe
+  - astro-informatics/proxnest
+  - jbobin/dGMCA
