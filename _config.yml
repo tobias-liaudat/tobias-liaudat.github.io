@@ -274,7 +274,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Liaudat]
-  first_name: [Tobias, T.]
+  first_name: [Tobias, Tobías, I., Tobías I., T., Tob{\'\i}as I.]
 
   style: apa
   locale: en
