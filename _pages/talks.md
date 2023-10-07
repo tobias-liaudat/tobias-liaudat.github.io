@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 description: Selected talks and posters.
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 
