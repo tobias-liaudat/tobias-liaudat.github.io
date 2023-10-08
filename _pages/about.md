@@ -23,5 +23,5 @@ My research lies at the crossroads of signal processing, machine learning and ph
 
 I am a member of the European Space Agengy (<a href="https://www.esa.int">ESA</a>) <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">_Euclid_</a> satellite <a href="https://www.euclid-ec.org">science consortium</a>, the James Webb Space Telescope (<a href="https://webb.nasa.gov">JWST</a>) <a href="https://webb.nasa.gov">[COSMOS-Web](https://cosmos.astro.caltech.edu/page/cosmosweb)</a> survey, and the <a href="https://www.skysurvey.cc">UNIONS</a> survey science collaboration.
 
-I will soon start a position as a permanent researcher at the _Institut de recherche sur les lois fondamentales de l'Univers_ (<a href="https://irfu.cea.fr">IRFU</a>) in the CEA Saclay near Paris, where I will work in the team of Dr. <a href="https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en">Jérôme Bobin</a>.
+I will soon start a position as a permanent research scientist at the _Institut de recherche sur les lois fondamentales de l'Univers_ (<a href="https://irfu.cea.fr">IRFU</a>) in the CEA Saclay near Paris, where I will work in the team of Dr. <a href="https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en">Jérôme Bobin</a>.
 
