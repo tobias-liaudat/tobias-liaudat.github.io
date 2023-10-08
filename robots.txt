@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tobias-liaudat.github.io/sitemap.xml
