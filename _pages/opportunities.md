@@ -21,7 +21,7 @@ There are no PhD projects at the moment, but they will appear here when availabl
 ### Master Internships
 
 
-Prospective students interested in doing a Master's internship (M2) in our team should send an email to [tobiasliaudat@gmail.com](mailto:tobiasliaudat@gmail.com). The email should include a CV, a transcript of grades, and the research project of interest, which can be one of the proposed projects listed below or the topics the student is interested in that are aligned with our research (see [Publications]({{ site.baseurl }}{% link _pages/publications.md %}) or [Google scholar](https://scholar.google.com/citations?user=5YLM_sEAAAAJ)). Projects will require background in one or more of the followign subjects: signal processing, machine learning, optimisation, and programming (Python).
+Prospective students interested in doing a Master's internship (M2) in our team should send an email to [tobiasliaudat@gmail.com](mailto:tobiasliaudat@gmail.com). The email should include a CV, a transcript of grades, and the research project of interest, which can be one of the proposed projects listed below or the topics the student is interested in that are aligned with our research (see [Publications]({{ site.baseurl }}{% link _pages/publications.md %}) or [Google scholar](https://scholar.google.com/citations?user=5YLM_sEAAAAJ)). Projects will require a background in one or more of the following subjects: signal processing, machine learning, optimisation, and programming (Python).
 
 
 - **Intenship project**: _Point Spread Function Modelling with Neural Fields and a Differentiable Optical Model._ Details [here](/assets/opportunities/2024_internship_offer_n1.pdf).
