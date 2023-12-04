@@ -41,9 +41,15 @@
 - title: Positions
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: CEA Paris-Saclay, Gif-sur-Yvette, France
+      year: 2023-now
+      description:
+        - "Staff research scientist working in the team of Dr. Jérôme Bobin."
+
     - title: Postdoctoral Research Fellow in Artificial Intelligence for Imaging
       institution: University College London, London, UK
-      year: 2022-now
+      year: 2022-2023
       description:
         - "Advisors: Prof. Jason McEwen, Prof. Marcelo Pereyra, Prof. Marta Betcke."
 
