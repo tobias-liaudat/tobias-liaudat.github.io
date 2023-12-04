@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am extremely happy to annouce that I will be joining the _CEA Saclay research centre_ in the Paris region as a _permanent research scientist_! :tada:
+I am extremely happy to annouce that I will be joining the _CEA Saclay research centre_ in the Paris region as a _staff research scientist_! :tada:
