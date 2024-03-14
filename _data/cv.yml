@@ -42,10 +42,10 @@
   type: time_table
   contents:
     - title: Research Scientist
-      institution: CEA Paris-Saclay, Gif-sur-Yvette, France
+      institution: IRFU, CEA Paris-Saclay, Gif-sur-Yvette, France
       year: 2023-now
       description:
-        - "Staff research scientist working in the team of Dr. Jérôme Bobin."
+        - "Staff research scientist at the Institute of research into the fundamental laws of the Universe (IRFU)."
 
     - title: Postdoctoral Research Fellow in Artificial Intelligence for Imaging
       institution: University College London, London, UK
