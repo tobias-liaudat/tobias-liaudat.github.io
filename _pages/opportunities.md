@@ -10,7 +10,11 @@ nav_order: 1
 
 ### Postdoc positions
 
-There are nopostdoc positions at the moment, but they will appear here when available.
+Opennings at IRFU institute in CEA Paris-Saclay:
+
+- One 2-year postdoctoral researcher position to work on machine learning for scientific imaging in astrophysics. Applications are considered on a rolling basis, so don’t be late to apply! See more details in the [PDF offer](/assets/opportunities/2024_postdoc_offer.pdf).
+
+<!-- There are nopostdoc positions at the moment, but they will appear here when available. -->
 
 
 ### PhD projects
