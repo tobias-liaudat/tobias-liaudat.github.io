@@ -75,31 +75,6 @@
         - "Advisor: Daniel Nguyen."
 
 
-- title: Teaching
-  type: time_table
-  contents:
-    - title: Qualification section 61 CNU
-      institution: Section 61 CNU, France
-      year: 2023
-      description:
-        - "Qualification to be able to apply for professor positions in France's universities."
-        - "CNU section 61 corresponds to computer science, control engineering and signal processing."
-
-    - title: Teaching assistant at the Applied Mathematics department (32h)
-      institution: École Polytechnique, Palaiseau, Paris Region, France
-      year: 2021 - 2022
-      description:
-        - Optimisation and control MAP435 for 2nd year engineering cycle students.
-
-    - title: Teaching assistant at the Applied Mathematics department (64h)
-      institution: École Polytechnique, Palaiseau, Paris Region, France
-      year: 2020 - 2021
-      description:
-        - Statistics MAP433 for 2nd year engineering cycle students.
-        - Optimisation and control MAP435 for 2nd year engineering cycle students.
-        - Mathematical modelling MAA107 for 1st year bachelor students.
-        - Python projects MAP361P for 1st year engineering cycle students.
-
 
 - title: Supervision
   type: time_table
@@ -125,6 +100,32 @@
       year: 2019 - 2020
       # description:
         # - "Subject: RCA for CFIS and the MCCD PSF model."
+
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Qualification section 61 CNU
+      institution: Section 61 CNU, France
+      year: 2023
+      description:
+        - "Qualification to be able to apply for professor positions in France's universities."
+        - "CNU section 61 corresponds to computer science, control engineering and signal processing."
+
+    - title: Teaching assistant at the Applied Mathematics department (32h)
+      institution: École Polytechnique, Palaiseau, Paris Region, France
+      year: 2021 - 2022
+      description:
+        - Optimisation and control MAP435 for 2nd year engineering cycle students.
+
+    - title: Teaching assistant at the Applied Mathematics department (64h)
+      institution: École Polytechnique, Palaiseau, Paris Region, France
+      year: 2020 - 2021
+      description:
+        - Statistics MAP433 for 2nd year engineering cycle students.
+        - Optimisation and control MAP435 for 2nd year engineering cycle students.
+        - Mathematical modelling MAA107 for 1st year bachelor students.
+        - Python projects MAP361P for 1st year engineering cycle students.
 
 
 # - title: Open Source Projects
