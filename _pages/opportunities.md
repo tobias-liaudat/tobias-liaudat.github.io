@@ -12,20 +12,20 @@ nav_order: 1
 
 Opennings at IRFU institute in CEA Paris-Saclay:
 
-- One 2-year postdoctoral researcher position to work on machine learning for scientific imaging in astrophysics. Applications are considered on a rolling basis, so don’t be late to apply! See more details in the [PDF offer](/assets/opportunities/2024_postdoc_offer.pdf).
-
-<!-- There are nopostdoc positions at the moment, but they will appear here when available. -->
+There are nopostdoc positions at the moment, but they will appear here when available.
 
 
 ### PhD projects
 
-There are no PhD projects at the moment, but they will appear here when available.
+Three PhD projects will be opening soon for a start date of October 2025. Stay tuned for more info! 
+
+<!-- There are no PhD projects at the moment, but they will appear here when available. -->
 
 
 ### Master Internships
 
 
-Prospective students interested in doing a Master's internship (M2) in our team should send an email to [tobiasliaudat@gmail.com](mailto:tobiasliaudat@gmail.com). The email should include a CV, a transcript of grades, and the research project of interest, which can be one of the proposed projects listed below (if any) or the topics the student is interested in that are aligned with our research (see [Publications]({{ site.baseurl }}{% link _pages/publications.md %}) or [Google scholar](https://scholar.google.com/citations?user=5YLM_sEAAAAJ)). If the student's expertise matches my research interests I will reply to discuss the posibilities of an internship. 
+Prospective students interested in doing a Master's internship (M2) with me in our team should send an email to [tobiasliaudat@gmail.com](mailto:tobiasliaudat@gmail.com). The email should include a CV, and, if possible, a transcript of grades, and the research project of interest, which can be one of the proposed projects listed below (if any) or the topics the student is interested in that are aligned with our research (see [Publications]({{ site.baseurl }}{% link _pages/publications.md %}) or [Google scholar](https://scholar.google.com/citations?user=5YLM_sEAAAAJ)). If the student's expertise matches my research interests I will reply to discuss the posibilities of an internship. 
 
 Projects will require a background in one or more of the following subjects: signal processing, machine learning, optimisation, and programming (Python).
 
