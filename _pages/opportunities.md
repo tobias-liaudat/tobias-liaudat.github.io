@@ -32,7 +32,7 @@ There are nopostdoc positions at the moment, but they will appear here when avai
     - Deadline to apply: 15th January 2025
     - Co-supervision: [François Lanusse](https://flanusse.net)
     - Funded by the DeMythif.AI cofund of the Institut DATAIA. Information about the call [here](https://www.dataia.eu/ouvert-cofund-demythifai-appel-candidatures-2024). 
-    - This program is dedicated for students meeting the Marie Skłodowska-Curie Action criteria, see [here](https://www.dataia.eu/ouvert-cofund-demythifai-appel-candidatures-2024). TL;DR: The candidate should not have spent more than more than 12 months in France since January 18, 2022.
+    - This program is dedicated to students meeting the Marie Skłodowska-Curie Action criteria, see [here](https://www.dataia.eu/ouvert-cofund-demythifai-appel-candidatures-2024). TL;DR: The candidate should not have spent more than more than 12 months in France since January 18, 2022.
     - Apply [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=59515&langue=en)
 
 
