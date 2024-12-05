@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <i class="fas fa-envelope"></i> <a href="mailto:tobiasliaudat@gmail.com">tobiasliaudat@gmail.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:tobias.liaudat@cea.fr">tobias.liaudat@cea.fr</a>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
