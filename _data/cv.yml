@@ -8,36 +8,6 @@
     - name: Languages
       value: Spanish, English, French
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Astrophysics
-      institution: Université Paris-Saclay, CEA Paris-Saclay, Gif-sur-Yvette, France
-      year: 2019-2022
-      description:
-        - "Title: Data-driven modelling of ground-based and space-based telescope's point spread functions."
-        - "Supervisors: Dr. Jean-Luc Starck & Dr. Martin Kilbinger"
-
-    - title: Master 2 research - Signal and image processing
-      institution: Université de Rennes I, Rennes, France
-      year: 2017-2018
-      description:
-        - "Ranked 1st of all Master students."
-
-    - title: IMT Atlantique's Engineering Diploma
-      institution: IMT Atlantique, Brest, France
-      year: 2016-2018
-      description:
-        - "Double Degree Agreement between IMT Atlantique and UBA thanks to an Eiffel excellence scholarship."
-
-    - title: Electronic Engineering diploma
-      institution: Universidad de Buenos Aires (UBA), Buenos Aires, Argentina
-      year: 2012-2019
-      description:
-        - "GPA: 9.23/10"
-        - "Gold Medal eligible."
-
-
 - title: Positions
   type: time_table
   contents:
@@ -60,12 +30,12 @@
         - "Subject: Research assistant in topics around Optimal Transport."
         - "Advisor: Prof. Marco Cuturi"
 
-    - title: Last year engineering internship
+    - title: Master thesis - Last year engineering internship
       institution: CEA-Saclay, Paris Region, France
       year: 2018
       description:
-        - "Master thesis: Signal processing and sparse blind source separation."
-        - "Advisor: Dr. Jérôme Bobin, Dr. Christophe Kervazo."
+        - "Thesis title: Signal processing and sparse blind source separation."
+        - "Advisors: Dr. Jérôme Bobin, Dr. Christophe Kervazo."
 
     - title: Engineering internship
       institution: Thales Air Systems, Paris Region, France
@@ -73,6 +43,38 @@
       description:
         - "Subject: Development of a radar performance simulator."
         - "Advisor: Daniel Nguyen."
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Astrophysics
+      institution: Université Paris-Saclay, CEA Paris-Saclay, Gif-sur-Yvette, France
+      year: 2019-2022
+      description:
+        - "Title: Data-driven modelling of ground-based and space-based telescope's point spread functions."
+        - "Supervisors: Dr. Jean-Luc Starck & Dr. Martin Kilbinger"
+
+    - title: Master 2 research - SISEA - Signal and image processing
+      institution: Université de Rennes I, Rennes, France
+      year: 2017-2018
+      description:
+        - "Ranked 1st of all Master students."
+
+    - title: IMT Atlantique's Engineering Diploma
+      institution: IMT Atlantique, Brest, France
+      year: 2016-2018
+      description:
+        - "Double Degree Agreement between IMT Atlantique and UBA thanks to an Eiffel excellence scholarship."
+
+    - title: Electronic Engineering diploma
+      institution: Universidad de Buenos Aires (UBA), Buenos Aires, Argentina
+      year: 2012-2019
+      description:
+        - "GPA: 9.23/10"
+        - "Gold Medal eligible."
+
+
 
 
 
