@@ -76,32 +76,30 @@
 
 
 
+# - title: Supervision
+#   type: time_table
+#   contents:
+#     - title: Mostafa Cherif - Master student
+#       institution: IRFU, CEA-Saclay, France
+#       year: 2024
 
+#     - title: Ezequiel Centofanti - Master student
+#       institution: CosmoStat Laboratory, CEA-Saclay, France
+#       year: 2022
+#       # description:
+#         # - "Subject: Improving the WaveDiff PSF estimation for Euclid."
 
-- title: Supervision
-  type: time_table
-  contents:
-    - title: Mostafa Cherif - Master student
-      institution: IRFU, CEA-Saclay, France
-      year: 2024
+#     - title: Aziz Ayed - Master student
+#       institution: CosmoStat Laboratory, CEA-Saclay, France
+#       year: 2021
+#       # description:
+#         # - "Subject: Deep denoisers for the MCCD PSF model."
 
-    - title: Ezequiel Centofanti - Master student
-      institution: CosmoStat Laboratory, CEA-Saclay, France
-      year: 2022
-      # description:
-        # - "Subject: Improving the WaveDiff PSF estimation for Euclid."
-
-    - title: Aziz Ayed - Master student
-      institution: CosmoStat Laboratory, CEA-Saclay, France
-      year: 2021
-      # description:
-        # - "Subject: Deep denoisers for the MCCD PSF model."
-
-    - title: Jérôme Bonnin - Master student
-      institution: CosmoStat Laboratory, CEA-Saclay, France
-      year: 2019 - 2020
-      # description:
-        # - "Subject: RCA for CFIS and the MCCD PSF model."
+#     - title: Jérôme Bonnin - Master student
+#       institution: CosmoStat Laboratory, CEA-Saclay, France
+#       year: 2019 - 2020
+#       # description:
+#         # - "Subject: RCA for CFIS and the MCCD PSF model."
 
 
 - title: Teaching
