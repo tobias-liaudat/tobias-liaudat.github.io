@@ -174,13 +174,13 @@ collections:
 # News section in about page
 news_enabled: true
 news_apply_limit: true  # apply the news_limit, if false all the news are shown
-news_limit: 3  # number of news shown in the about page
+news_limit: 5  # number of news shown in the about page
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
