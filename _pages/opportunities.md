@@ -19,6 +19,15 @@ There are nopostdoc positions at the moment, but they will appear here when avai
 
 <!-- Three PhD projects will be opening soon for a start date of October 2025. Stay tuned for more info!  -->
 
+- __PhD project__: _Point Spread Function Modelling for Space Telescopes with a Differentiable Optical Model._
+    - Project details [here](/assets/opportunities/2025_PhD_subject_PSF.pdf).
+    - Start date: 1st October 2025
+    - Deadline to apply: 15th April 2025
+    - Co-supervision: [François Lanusse](https://flanusse.net)
+    - Host labs, [CosmoStat](https://www.cosmostat.org) and [LILAS](https://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_groupe.php?id_groupe=616), both at CEA Saclay. 
+    - To apply send application documents to [tobias.liaudat@cea.fr](mailto:tobias.liaudat@cea.fr) and [francois.lanusse@cnrs.fr](mailto:francois.lanusse@cnrs.fr) with an email subject starting with [PhD-PSF].
+
+
 - __PhD project__: _Fast parameter inference of gravitational waves for the LISA space mission._
     - Project details [here](/assets/opportunities/2025_PhD_subject_LISA_EN.pdf).
     - Start date: 1st October 2025
