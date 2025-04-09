@@ -24,7 +24,7 @@ nav_order: 2
 
 ### Master students
 
-- [2024] **Khaoula Arouissi**
+- [2025] **Khaoula Arouissi**
     <a href="https://github.com/khola22" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/khaoula-arouissi-776b69167/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
