@@ -17,7 +17,7 @@ nav_order: 2
     <a href="https://www.linkedin.com/in/tom-sprunck-4138211b7/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
 
-### PhD student
+### PhD students
 
 <p> <br> </p>
 
