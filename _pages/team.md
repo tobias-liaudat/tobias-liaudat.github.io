@@ -28,6 +28,10 @@ nav_order: 2
     <a href="https://github.com/khola22" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/khaoula-arouissi-776b69167/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
+- [2025] **Louis Le Saulnier**
+    <a href="https://github.com/LouisLeSaulnier" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/louis-le-saulnier-b91441215/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+
 ### Colaborators
 
 I maintain collaborations mostly in France and UK.
