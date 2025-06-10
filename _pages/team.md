@@ -57,7 +57,7 @@ I maintain collaborations mostly in France and UK.
     <a href="https://www.linkedin.com/in/aziz-ayed/?originalSubdomain=fr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     - Now PhD student at MIT, Cambdridge, MA, USA
 
-- [2019-2020, Master student] **Jérôme Bonin**
+- [2019-2020, Master student] **Jérôme Bonnin**
     <a href="https://www.linkedin.com/in/jérôme-b-338260161/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     - Now working on the private sector
 
