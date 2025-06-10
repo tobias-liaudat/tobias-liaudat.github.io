@@ -46,6 +46,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
+bib_search: true
 
 # Dimensions
 max_width: 800px
@@ -223,6 +224,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
