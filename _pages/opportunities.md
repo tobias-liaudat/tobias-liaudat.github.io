@@ -12,23 +12,14 @@ nav_order: 1
 
 Opennings at IRFU institute in CEA Paris-Saclay:
 
-There are nopostdoc positions at the moment, but they will appear here when available.
+There are no postdoc positions at the moment, but they will appear here when available.
 
 
 ### PhD projects
 
 <!-- Three PhD projects will be opening soon for a start date of October 2025. Stay tuned for more info!  -->
 
-
-- __PhD project__: _Fast parameter inference of gravitational waves for the LISA space mission._
-    - Project details [here](/assets/opportunities/2025_PhD_subject_LISA_EN.pdf).
-    - Start date: 1st October 2025
-    - Deadline to apply: 15th March 2025
-    - Co-supervision: [Jérôme Bobin](https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en&oi=ao)
-    - To apply send application documents to [tobias.liaudat@cea.fr](mailto:tobias.liaudat@cea.fr) with email subject [LISA-PhD].
-
-
-<!-- There are no PhD projects at the moment, but they will appear here when available. -->
+There are no PhD projects at the moment, but they will appear here when available.
 
 
 ### Master Internships
