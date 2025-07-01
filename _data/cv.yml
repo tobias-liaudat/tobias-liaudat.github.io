@@ -75,6 +75,22 @@
         - "Gold Medal eligible."
 
 
+- title: Community service
+  type: map
+  contents:
+    - name: Reviewing
+      value: 
+      - NeurIPS, 
+      - Astronomy & Astrophysics (A&A), 
+      - The Astronomical Journal, 
+      - RAS Techniques & Instruments (RASTI), 
+      - Journal of Open Source Software (JOSS), 
+      - IEEE Transactions on Computational Imaging (TCI), 
+      - Philosophical Transactions of the Royal Society A (RSTA), 
+    - name: Organisation
+      value:
+      - Co-organiser of Le Seminaire Palaisien
+
 
 # - title: Supervision
 #   type: time_table
@@ -128,12 +144,6 @@
         - Python projects MAP361P for 1st year engineering cycle students.
 
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
