@@ -32,7 +32,7 @@ nav_order: 2
     <a href="https://github.com/LouisLeSaulnier" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/louis-le-saulnier-b91441215/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
-### Colaborators
+### Collaborators
 
 I maintain collaborations mostly in France and UK.
 
