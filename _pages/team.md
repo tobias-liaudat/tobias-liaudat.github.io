@@ -31,12 +31,12 @@ PhD students from colleagues I am working closely:
     <a href="https://scholar.google.com/citations?user=SP3BkccAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a href="https://github.com/JessWhitney" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/jessica-whitney-jjw/?originalSubdomain=uk" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Main advisor Prof. Jason McEwen
+    - Main advisor Prof. Jason McEwen.
 
 - [2023 - ...] **Henry Aldridge**
     <a href="https://github.com/henry-ald" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/henry-aldridge/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Main advisor Prof. Jason McEwen
+    - Main advisor Prof. Jason McEwen.
 
 
 ### Master students
