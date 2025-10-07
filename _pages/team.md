@@ -19,18 +19,32 @@ nav_order: 2
 
 ### PhD students
 
-<p> <br> </p>
+- [2025 - ...] **Louis Le Saulnier**
+    <a href="https://github.com/LouisLeSaulnier" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/louis-le-saulnier-b91441215/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Co-advised with Jérôme Bobin and Jean-Baptiste Bayle.
+
+PhD students from colleagues I am working closely:
+
+- [2022 - ...] **Jessica Whitney**
+    <a href="https://jesswhitney.github.io/index.html" title="Webpage"><i class="fas fa-globe"></i></a>
+    <a href="https://scholar.google.com/citations?user=SP3BkccAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/JessWhitney" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/jessica-whitney-jjw/?originalSubdomain=uk" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Main advisor Prof. Jason McEwen
+
+- [2023 - ...] **Henry Aldridge**
+    <a href="https://github.com/henry-ald" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/henry-aldridge/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Main advisor Prof. Jason McEwen
 
 
 ### Master students
 
-- [2025] **Khaoula Arouissi**
-    <a href="https://github.com/khola22" title="GitHub"><i class="fab fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/khaoula-arouissi-776b69167/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+- [2025] **Seif Zaafouri**
+    <a href="https://github.com/seif-zaafouri" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/seif-zaafouri-a25076277/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
-- [2025] **Louis Le Saulnier**
-    <a href="https://github.com/LouisLeSaulnier" title="GitHub"><i class="fab fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/louis-le-saulnier-b91441215/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 
 ### Collaborators
 
@@ -39,10 +53,15 @@ I maintain collaborations mostly in France and UK.
 
 ### Alumni
 
+- [2025, Master student] **Khaoula Arouissi**
+    <a href="https://github.com/khola22" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/khaoula-arouissi-776b69167/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Now student at IMT Atlantique, Brest, France.
+
 - [2024, Master student] **Mostafa Cherif**
     <a href="https://github.com/MostafaCherif" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/mostafa-cherif/?originalSubdomain=fr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Co-supervised with [J. Bobin](https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en&oi=ao), [C. Kervazo](https://sites.google.com/view/christophekervazo/) and [J. Kern](https://www.linkedin.com/in/jonathan-kern/?locale=en_US)
+    - Co-advised with [J. Bobin](https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en&oi=ao), [C. Kervazo](https://sites.google.com/view/christophekervazo/) and [J. Kern](https://www.linkedin.com/in/jonathan-kern/?locale=en_US)
     - Now PhD student at IRFU, CEA Saclay, France
 
 - [2022, Master student] **Ezequiel Centofanti** 
