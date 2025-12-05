@@ -22,7 +22,12 @@ nav_order: 2
 - [2025 - ...] **Louis Le Saulnier**
     <a href="https://github.com/LouisLeSaulnier" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/louis-le-saulnier-b91441215/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Co-advised with Jérôme Bobin and Jean-Baptiste Bayle.
+    - Co-advised with [Dr Jérôme Bobin](https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en&oi=ao) and [Dr Jean-Baptiste Bayle](https://inspirehep.net/authors/1881111).
+
+- [2025 - ...] **Sammy Sharief**
+    <a href="https://github.com/sammys15" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/sammy-sharief-035a87197/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Co-advised with [Dr François Lanusse](https://flanusse.net).
 
 PhD students from colleagues I am working closely:
 
@@ -31,12 +36,12 @@ PhD students from colleagues I am working closely:
     <a href="https://scholar.google.com/citations?user=SP3BkccAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a href="https://github.com/JessWhitney" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/jessica-whitney-jjw/?originalSubdomain=uk" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Main advisor Prof. Jason McEwen.
+    - Main advisor [Prof. Jason McEwen](http://www.jasonmcewen.org).
 
 - [2023 - ...] **Henry Aldridge**
     <a href="https://github.com/henry-ald" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/henry-aldridge/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Main advisor Prof. Jason McEwen.
+    - Main advisor [Prof. Jason McEwen](http://www.jasonmcewen.org).
 
 
 ### Master students
