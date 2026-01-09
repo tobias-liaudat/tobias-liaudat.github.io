@@ -31,6 +31,12 @@ There are no postdoc positions at the moment, but they will appear here when ava
 
 ### Master Internships
 
+- __M2 internship project (stage M2)__: _Point Spread Function Modelling with Neural Fields and a Differentiable Optical Model._
+    - Project details [here](/assets/opportunities/2026_internship_PSF.pdf).
+    - Start date: 1st April 2026
+    - Deadline to apply: 15th February 2026
+    - To apply send application documents to [tobias.liaudat@cea.fr](mailto:tobias.liaudat@cea.fr) with an email subject starting with [Internship-PSF].
+
 
 Prospective students interested in doing a Master's internship (M2) with me in our team should send an email to [tobias.liaudat@cea.fr](mailto:tobias.liaudat@cea.fr). The email should include a CV, and, if possible, a transcript of grades, and the research project of interest, which can be one of the proposed projects listed below (if any) or the topics the student is interested in that are aligned with our research (see [Publications]({{ site.baseurl }}{% link _pages/publications.md %}) or [Google scholar](https://scholar.google.com/citations?user=5YLM_sEAAAAJ)). If the student's expertise matches my research interests I will reply to discuss the posibilities of an internship. 
 
