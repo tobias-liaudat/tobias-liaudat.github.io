@@ -27,7 +27,7 @@ nav_order: 2
 - [2025 - ...] **Sammy Sharief**
     <a href="https://github.com/sammys15" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/sammy-sharief-035a87197/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Co-advised with [Dr François Lanusse](https://flanusse.net).
+    - Co-advised with [Dr François Lanusse](https://flanusse.net) and [Dr Sam Farrens](https://sfarrens.github.io).
 
 PhD students from colleagues I am working closely:
 
