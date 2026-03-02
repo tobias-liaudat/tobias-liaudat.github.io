@@ -46,10 +46,7 @@ PhD students from colleagues I am working closely:
 
 ### Master students
 
-- [2025] **Seif Zaafouri**
-    <a href="https://github.com/seif-zaafouri" title="GitHub"><i class="fab fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/seif-zaafouri-a25076277/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-
+No students right now.
 
 ### Collaborators
 
@@ -57,6 +54,11 @@ I maintain collaborations mostly in France and UK.
 
 
 ### Alumni
+
+- [2025-2026, Master student] **Seif Zaafouri**
+    <a href="https://github.com/seif-zaafouri" title="GitHub"><i class="fab fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/seif-zaafouri-a25076277/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    - Now student at CentraleSupélec, Gif-sur-Yvette, France.
 
 - [2025, Master student] **Khaoula Arouissi**
     <a href="https://github.com/khola22" title="GitHub"><i class="fab fa-github"></i></a>
@@ -67,23 +69,23 @@ I maintain collaborations mostly in France and UK.
     <a href="https://github.com/MostafaCherif" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/mostafa-cherif/?originalSubdomain=fr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
     - Co-advised with [J. Bobin](https://scholar.google.com/citations?user=2IWDmk8AAAAJ&hl=en&oi=ao), [C. Kervazo](https://sites.google.com/view/christophekervazo/) and [J. Kern](https://www.linkedin.com/in/jonathan-kern/?locale=en_US)
-    - Now PhD student at IRFU, CEA Saclay, France
+    - Now PhD student at IRFU, CEA Saclay, France.
 
 - [2022, Master student] **Ezequiel Centofanti** 
     <a href="https://www.cosmostat.org/people/ezequiel-centofanti" title="Webpage"><i class="fas fa-globe"></i></a>
     <a href="https://github.com/CentofantiEze" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/ezequiel-centofanti-4404b7189/?originalSubdomain=fr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Now PhD student at CosmoStat, CEA Saclay, France
+    - Now PhD student at CosmoStat, CEA Saclay, France.
 
 - [2021, Master student] **Aziz Ayed**
     <a href="https://jclinic.mit.edu/team-member/aziz-ayed/" title="Webpage"><i class="fas fa-globe"></i></a>
     <a href="https://github.com/aziz-ayed" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/aziz-ayed/?originalSubdomain=fr" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Now PhD student at MIT, Cambdridge, MA, USA
+    - Now PhD student at MIT, Cambdridge, MA, USA.
 
 - [2019-2020, Master student] **Jérôme Bonnin**
     <a href="https://www.linkedin.com/in/jérôme-b-338260161/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    - Now working on the private sector
+    - Now working on the private sector.
 
 
 
