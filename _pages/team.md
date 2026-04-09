@@ -11,7 +11,7 @@ nav_order: 2
 ### Postdocs
 
 - [2025 - ...] **Dr. Tom Sprunck**
-    <a href="https://irma.math.unistra.fr/~sprunck/" title="Webpage"><i class="fas fa-globe"></i></a>
+    <a href="https://sprunckt.github.io" title="Webpage"><i class="fas fa-globe"></i></a>
     <a href="https://scholar.google.com/citations?user=j7UE9twAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> 
     <a href="https://github.com/Sprunckt" title="GitHub"><i class="fab fa-github"></i></a>
     <a href="https://www.linkedin.com/in/tom-sprunck-4138211b7/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
