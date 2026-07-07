@@ -32,6 +32,15 @@ repo_trophies:
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
+# External service URLs for the repositories page.
+# The public github-readme-stats.vercel.app instance is heavily rate-limited and
+# frequently paused, which shows up as broken images. To fix this permanently,
+# deploy your own instance (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+# and point the URL below to it, e.g. https://github-readme-stats-yourname.vercel.app
+external_services:
+  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
