@@ -164,8 +164,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -184,8 +184,8 @@ collections:
 # News section in about page
 news_enabled: true
 news_apply_limit: true  # apply the news_limit, if false all the news are shown
-news_limit: 5  # number of news shown in the about page
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+news_limit: 6  # number of news shown in the about page
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 
 latest_posts:
   enabled: true
