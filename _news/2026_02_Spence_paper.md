@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:tada: **New paper alert:**  New [paper](https://arxiv.org/abs/2602.20758) on the arXiv led by [Jonathan Spence](https://scholar.google.com/citations?user=AzTwQdUAAAAJ&hl=en) on _Deep unfolding of MCMC kernels: scalable, modular & explainable GANs for high-dimensional posterior sampling_.
+:confetti_ball: **New paper alert:**  New [paper](https://arxiv.org/abs/2602.20758) on the arXiv led by [Jonathan Spence](https://scholar.google.com/citations?user=AzTwQdUAAAAJ&hl=en) on _Deep unfolding of MCMC kernels: scalable, modular & explainable GANs for high-dimensional posterior sampling_.
 
