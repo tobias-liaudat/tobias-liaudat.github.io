@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:tada: **New paper alert:**  New [paper]({{ site.baseurl }}{% link assets/pdf/mcewen2026.pdf %}) with [Jason McEwen](https://www.jasonmcewen.org) on _High-dimensional uncertainty quantification with deep data-driven AI priors_, submitted for the [MaxEnt conference](https://www.maxent2025.co.nz).
+:tada: **New paper alert:**  New [paper]({{ site.baseurl }}{% link assets/pdf/mcewen2026.pdf %}) with [Jason McEwen](https://www.jasonmcewen.org) on _High-dimensional uncertainty quantification with deep data-driven AI priors_, ~~submitted~~ accepted for the [MaxEnt conference](https://www.maxent2025.co.nz).
 
