@@ -20,11 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.2'
+        # New runner images only provide the latest patch release in each series.
+        ruby-version: '3.2'
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
